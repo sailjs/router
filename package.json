@@ -22,6 +22,7 @@
   ],
   "main": "main",
   "dependencies": {
+    "class": "git://github.com/anchorjs/class.git",
     "history": "git://github.com/anchorjs/history.git"
   },
   "devDependencies": {
@@ -38,6 +39,8 @@
   },
   "volo": {
     "dependencies": {
+      "class": "github:anchorjs/class/master",
+      "events": "github:anchorjs/events/master",
       "history": "github:anchorjs/history/master"
     }
   }

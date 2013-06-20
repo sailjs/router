@@ -9,6 +9,8 @@
     "lib/router.js"
   ],
   "dependencies": {
+    "anchorjs/class": "*",
+    "anchorjs/events": "*",
     "anchorjs/history": "*"
   },
   "license": "MIT"
