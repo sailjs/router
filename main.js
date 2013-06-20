@@ -1,5 +1,5 @@
 define(['exports', 'module',
-        './lib/dom/render'],
+        './lib/route'],
 function(exports, module, Route) {
   
   exports.Route = Route;
